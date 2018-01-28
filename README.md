@@ -1,0 +1,1 @@
+My preferred eslint configuration. Some configuration is borrowed from config-react-app.
